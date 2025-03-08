@@ -36,10 +36,10 @@
 
             <div class="social-icons">
                 <a href="https://id.pinterest.com/nabilamai/"><i class='bx bxl-pinterest' ></i></a>
-                <a href="#"><i class='bx bxl-github' ></i></a>
-                <a href="#"><i class='bx bxl-linkedin' ></i></a>
-                <a href="#"><i class='bx bxl-behance' ></i></a>
-                <a href="#"><i class='bx bxl-dribbble' ></i></a>
+                <a href="https://github.com/bilabae"><i class='bx bxl-github' ></i></a>
+                <a href="https://www.linkedin.com/in/nabila-mai-a667a5350/"><i class='bx bxl-linkedin' ></i></a>
+                <a href="https://www.behance.net/nabilamai"><i class='bx bxl-behance' ></i></a>
+                <a href="https://dribbble.com/AiBila"><i class='bx bxl-dribbble' ></i></a>
             </div>
 
             <div class="btn-group">
